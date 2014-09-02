@@ -60,6 +60,9 @@ http://www.invisionapp.com
 
 ### Blocking
 Object modeling allows us to define the building blocks of our content. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
+
+We track and define our inventory in a Google Document shared by Product, Design and Development.
+
   * News site - single article
   * Realty site - single property
  
@@ -68,7 +71,7 @@ Define larger groupings of related content
   * Map global elements
   * Header, Footer
 
-### Scribing (Scribing)
+### Scribing
 Namespacing our components is important. Domain language will be shared across Product, Design and Development
 
 * Use minimal descriptive naming to organize your style into modules
@@ -78,21 +81,27 @@ Namespacing our components is important. Domain language will be shared across P
 
 Pattern Library
 -------
+We have expanded a pattern library from being a style guide it being the essential Front End Development branch of every project. It is where the brand language is developed as well as where new components are tested.
 
-### Base Unit Process (Looming)
+### Looming
+The process for determining our base units will effect the whole or our design. It is the horizontal and vertical grid across all breakpoints.
 * Font size ex. 16px
 * Character Measure per line ex. 65
 * Vertical Line height based on legibility ex. 1.5
 * Base Units in both directions (16 x 1.5 = 24px)
 * Columns and Gutters ex. 12/24/36/48px
 
-### Workflow (Tooling)
+### Tooling
+Taking the brand language we defined in our style tile and parts inventory we developed with the team we can now begin to sculpt the individual display components.
+
 * Start with a low resolution HTML site map within the static environment
 * Focus on key wireframes to extract new Partials
 * Avoid using grid classes on the Partial level to ensure reuse
 * Reserve Component definitions to include only high level site content
 
-### Interactions (Prototyping)
+### Prototyping
+When something has to move or tell a story we isolate the necessary components or create a branch off master.
+
 * Include external js files and add function calls to app.js with commenting
 * Create a new partial to sandbox interaction styles
 
