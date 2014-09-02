@@ -147,26 +147,32 @@ Code Guidelines
 ### Structure
 
 ```shell
-	- base
-		- reset
-		- variables
-		- typography
-	- tools
-		- mixins
-		- functions
-	- components
-		- partials
-		- objects
-	- layout
-		- header
-		- footer
-	- pages
-		- home
-		- single
-	- helpers
-		- shame
-	- vendors
-		- foundation
+/base
+	reset.scss
+	variables.scss
+	typography.scss
+	
+/tools
+	mixins.scss
+	functions.scss
+	
+/components
+	/partials
+	example.scss
+	
+/layout
+	header.scss
+	footer.scss
+
+/pages
+	home.scss
+	single.scss
+	
+/helpers
+	shame.scss
+	
+/vendors
+	foundation.scss
 ```		
 
 ## HTML
