@@ -13,17 +13,31 @@ We still use Photoshop. Raster based desktop aplications are very good at specif
 We encourage the use of Typecast to experiment with font families, sizing and type scale. [Typecast](http://typecast.com)
 
 * **Grid**
-We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers extracted from Typecast we  experiment with vertical rhytmns and breakpoints. [Gridlover](http://www.gridlover.net)
+We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers from Typecast we experiment with vertical rhytmns and breakpoints. [Gridlover](http://www.gridlover.net)
 
 Setting up a Project
 -------
 
-### Software of Choice
-* Github for Mac
-* Sublime
+All of our front end developers are required to install a local local development environment. This allows the whole team to benefit from source control and contribute to the production environment. 
+
+### Software
+* **Github for Mac**
+Feel free to use terminal but we like Github for Mac for it's Drag and Drop UI.
+
+* **Sublime Text 3**
+Use the text editor of your choice but we like Sublime Text for its feature set and custom options. 
 
 ### Molecule Man
+We have put together a static site builder that is our boilerplate for projects. It allows us to take advantage of the modular nature of Sass and build our HTML partials accordingly.
+
+* Middleman
+Rails static site builder. Since we are using Sass and Compass we liek that it is in the same family. 
+
 * Sass w/Compass
+We find Sass to be the best supported preprocessor with an engaged community helping to define new features. 
+
+* Atomic Design. SMACCS, BEM, OOCSS
+
 * Style Tile - Update (Tiling)
 * Type
 * Color
@@ -62,7 +76,7 @@ Pattern Library
 * Columns and Gutters ex. 12/24/36/48px
 
 ### Workflow (Tooling)
-*  Start with a low resolution HTML site map within the static environment
+* Start with a low resolution HTML site map within the static environment
 * Focus on key wireframes to extract new Partials
 * Avoid using grid classes on the Partial level to ensure reuse
 * Reserve Component definitions to include only high level site content
