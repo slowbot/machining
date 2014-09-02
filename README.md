@@ -1,7 +1,7 @@
-h1 Machining
+Machining
 =========
 
-h2 Getting Started
+## Getting Started
 Raster Templates (Sketching)
 Typecast
 
