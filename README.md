@@ -181,18 +181,21 @@ Code Guidelines
 * Whenever possible avoid superfluous parent elements. 
 
 ### Forms
-* Wrap inputs in labels
+* Wrap inputs inside of labels
 
 ### Semantics
-* Section if a page level element
+* Section if a component level element
   * avoid nesting sections within an article
-*  Article is a single unit of content
-* Aside is a secondary content element
+* Article is a single unit of primary content
+* Aside is a supplementary page element
 	
 Structure
 ```shell
-	- partials
-	- components
-	- layouts
-	- pages
+/partials
+
+/components
+
+/layout
+
+/pages
 ```		
