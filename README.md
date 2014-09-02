@@ -7,13 +7,13 @@ Getting Started
 -------
 
 * **Sketching**
-Raster Templates. We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
+We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
 
-* **Typecast**
-We encourage the use of Typecast to experiment with font families, sizing and type scale.
+* **Type**
+We encourage the use of Typecast to experiment with font families, sizing and type scale. (http://typecast.com)
 
-* **Gridlovers**
-We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers extracted from Typecast we  experiment with vertical rhytmns and breakpoints. 
+* **Grid**
+We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers extracted from Typecast we  experiment with vertical rhytmns and breakpoints. (http://www.gridlover.net)
 
 Setting up a Project
 -------
