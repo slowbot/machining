@@ -105,10 +105,9 @@ When something has to move or tell a story we isolate the necessary components o
 * Include external js files and add function calls to app.js with commenting
 * Create a new partial to sandbox interaction styles
 
-Code Guidelines
--------
 
-## SCSS/CSS
+SCSS/CSS Guidelines
+-------
 
 ### Spacing
 * Use soft tabs
@@ -175,7 +174,8 @@ Code Guidelines
 	foundation.scss
 ```		
 
-## HTML
+HTML Guidelines
+-------
 	
 ### General
 * Whenever possible avoid superfluous parent elements. 
