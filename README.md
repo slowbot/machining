@@ -39,13 +39,12 @@ We find Sass to be the best supported preprocessor with an engaged community hel
 * **Atomic Design. SMACCS, BEM, OOCSS**
 Whichever flavor you prefer, we like our styles DRY. The default Sass structure that comes with Molecule Man is suggested as a starting point. 
 
-### Design with Browser
-
 * **Style Tile**
+Based on the work done so far we want to extract and present the variables which will become the basis of our Pattern Library. These core elements include:
   * Type
   * Color
   * Grid & Rhythm
-  * Globals
+  * Global elements
 
 Parts Inventory
 -------
@@ -53,16 +52,19 @@ Parts Inventory
 ### Content Audit 
 ### Sitemap & Wireframes
 
-### Define content building blocks (Blocking)
-* News site - single article
-* Reality site - single property
-* Define larger groupings of related content
+### Blocking
+Define content building blocks. Again keeping in mind Atomic Design. SMACCS, BEM, and OOCSS principles we want to design our products based on their natural material, the content.
+  * News site - single article
+  * Reality site - single property
+   
+Define larger groupings of related content
 * Archive, Search
 * Map global elements
 * Header, Footer
 
-### Namespacing (Scribing)
-* Domain language will be shared across Product, Design and Development
+### Scribing (Scribing)
+Namespacing our components is important. Domain language will be shared across Product, Design and Development
+
 * Use minimal descriptive naming to organize your style into modules
 * Nest required classes within a Component class to avoid collision
 * Build more specific names using dashes or &-
