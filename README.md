@@ -10,10 +10,10 @@ Getting Started
 Raster Templates. We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
 
 * **Typecast**
-Web applications are quickly catching up. We do encourage the use of Typecast to experiment with font sizing and type scale.
+We encourage the use of Typecast to experiment with font families, sizing and type scale.
 
 * **Gridlovers**
-Another form of quick visualization if the Gridlover. Once we have some key numbers extracted from Typecast we can expriment with vertical rhytmns and breakpoints. 
+We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers extracted from Typecast we  experiment with vertical rhytmns and breakpoints. 
 
 Setting up a Project
 -------
