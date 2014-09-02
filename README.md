@@ -1,13 +1,15 @@
-Machining
+h1 Machining
 
-Getting Started
-	- Raster Templates (Sketching)
-	- Typecast
+h2 Getting Started
 
-Setting up a Project
-	- Software of Choice
-		- Github for Mac
-		- Sublime
+h3 Raster Templates (Sketching)
+h3 Typecast
+
+h3 Setting up a Project
+
+Software of Choice
+Github for Mac
+Sublime
 
 	- Molecule Man
 		- Sass w/Compass
@@ -17,7 +19,7 @@ Setting up a Project
 			- Grid & Rhythm
 			- Globals
 
-Parts Inventory
+h3 Parts Inventory
 	- Content Audit 
 	- Sitemap & Wireframes
 
