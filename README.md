@@ -105,3 +105,88 @@ When something has to move or tell a story we isolate the necessary components o
 * Include external js files and add function calls to app.js with commenting
 * Create a new partial to sandbox interaction styles
 
+Code Guidelines
+-------
+
+## SCSS/CSS
+
+### Spacing
+* Use soft tabs
+* Put line breaks between rulesets
+* Place closing braces on a new line
+* Give each declaration its own line
+
+### Formatting
+* Use // for comments
+* Avoid units for 0 values
+* Avoid nesting more that 4 levels
+* Use hyphens instead of underscore in class and filenames
+* Use double quotes
+
+### Pixels vs Ems
+* Avoid using px independent of rem function
+* Generally use rems for type and reserve ems for layout spacing
+
+### ID's vs classes
+* Candidates for ids include header, footer
+	
+### Naming
+* Use meaningful names
+* Avoid using html tags in class names
+* Avoid applying styles to base html tags
+
+### Order
+* Use Alphabetcal order
+* Exlends
+* Includes
+* Property: Value
+* Psuedo
+* Nested elements
+* Media Queries
+	
+### Structure
+
+```shell
+	- base
+		- reset
+		- variables
+		- typography
+	- tools
+		- mixins
+		- functions
+	- components
+		- partials
+		- objects
+	- layout
+		- header
+		- footer
+	- pages
+		- home
+		- single
+	- helpers
+		- shame
+	- vendors
+		- foundation
+```		
+
+## HTML
+	
+### General
+* Whenever possible avoid superfluous parent elements. 
+
+### Forms
+* Wrap inputs in labels
+
+### Semantics
+* Section if a page level element
+  * avoid nesting sections within an article
+*  Article is a single unit of content
+* Aside is a secondary content element
+	
+Structure
+```shell
+	- partials
+	- components
+	- layouts
+	- pages
+```		
