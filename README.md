@@ -50,7 +50,13 @@ Parts Inventory
 -------
 
 ### Content Audit 
+A simple spreadsheet with allow the least technical member of the team to contricbute to the content definition portion of the project.
+
 ### Sitemap & Wireframes
+We use Slickplan for sitempas and a combination of Balsamiq and InVision for Wireframing. 
+http://slickplan.com
+https://balsamiq.com
+http://www.invisionapp.com
 
 ### Blocking
 Define content building blocks. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
