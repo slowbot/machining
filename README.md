@@ -36,7 +36,7 @@ Rails static site builder. Since we are using Sass and Compass we liek that it i
 * **Sass w/Compass**
 We find Sass to be the best supported preprocessor with an engaged community helping to define new features. 
 
-* **Atomic Design. SMACCS, BEM, OOCSS**
+* **Atomic Design with OOCSS**
 Whichever flavor you prefer, we like our styles DRY. The default Sass structure that comes with Molecule Man is suggested as a starting point. 
 
 * **Style Tile**
@@ -53,7 +53,7 @@ Parts Inventory
 ### Sitemap & Wireframes
 
 ### Blocking
-Define content building blocks. Again keeping in mind Atomic Design. SMACCS, BEM, and OOCSS principles we want to design our products based on their natural material, the content.
+Define content building blocks. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
   * News site - single article
   * Reality site - single property
    
