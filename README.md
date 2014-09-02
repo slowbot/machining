@@ -18,7 +18,7 @@ We also suggest moving onto Gridlover for layout rules. Once we extract some key
 Setting up a Project
 -------
 
-All of our front end developers are required to install a local local development environment. This allows the whole team to benefit from source control and contribute to the production environment. 
+All of our front end developers are required to install a local development environment. This allows the whole team to benefit from source control and contribute to the production environment. 
 
 ### Software
 * **Github for Mac**
