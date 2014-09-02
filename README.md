@@ -54,9 +54,10 @@ A simple spreadsheet which allows the least technical member of the team to cont
 
 ### Sitemap & Wireframes
 We use Slickplan for sitempas and a combination of Balsamiq and InVision for Wireframing. 
-http://slickplan.com
-https://balsamiq.com
-http://www.invisionapp.com
+
+* http://slickplan.com
+* https://balsamiq.com
+* http://www.invisionapp.com
 
 ### Blocking
 Object modeling allows us to define the building blocks of our content. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
