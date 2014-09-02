@@ -10,10 +10,10 @@ Getting Started
 We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
 
 * **Type**
-We encourage the use of Typecast to experiment with font families, sizing and type scale. [Typecast](http://typecast.com)
+We encourage the use of Typecast to experiment with font families, sizing, vertical rhytmns and type scale. [Typecast](http://typecast.com) [Gridlover](http://www.gridlover.net) 
 
 * **Grid**
-We also suggest moving onto Gridlover for layout rules. Once we extract some key numbers from Typecast we experiment with vertical rhytmns and breakpoints. [Gridlover](http://www.gridlover.net)
+We also suggest moving onto Gridpak for layout rules. Once we extract some key numbers from Typecast we experiment with breakpoints. [Gridpak](http://gridpak.com)
 
 Setting up a Project
 -------
