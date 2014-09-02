@@ -6,14 +6,14 @@ Machining is a method of front end development preferred by the team at Mister M
 Getting Started
 -------
 
-* **Sketching
+* **Sketching**
 Raster Templates. We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
 
-* Typecast
-Web applications are quickly catching up. We do encourage the use of Typecast to experiment with 
+* **Typecast**
+Web applications are quickly catching up. We do encourage the use of Typecast to experiment with font sizing and type scale.
 
-* Gridlovers
-Another form of quick visualization if the Gridlovers tool. 
+* **Gridlovers**
+Another form of quick visualization if the Gridlover. Once we have some key numbers extracted from Typecast we can expriment with vertical rhytmns and breakpoints. 
 
 Setting up a Project
 -------
