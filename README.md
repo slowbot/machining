@@ -184,7 +184,7 @@ Code Guidelines
 * Wrap inputs inside of labels
 
 ### Semantics
-* Section if a component level element
+* Section if a page level element
   * avoid nesting sections within an article
 * Article is a single unit of primary content
 * Aside is a supplementary page element
