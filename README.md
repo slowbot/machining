@@ -1,11 +1,19 @@
 Machining
 =========
 
+Machining is a method of front end development preferred by the team at Mister Machine. It involves rolling togeher design and development practices.  
+
 Getting Started
 -------
 
-* Raster Templates (Sketching)
+* Sketching
+Raster Templates. We still use Photoshop. Raster based desktop aplications are very good at specific operations that allow for free asscoaition and of art direction. 
+
 * Typecast
+Web applications are quickly catching up. We do encourage the use of Typecast to experiment with 
+
+* Gridlovers
+Another form of quick visualization if the Gridlovers tool. 
 
 Setting up a Project
 -------
