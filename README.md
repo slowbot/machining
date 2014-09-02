@@ -30,19 +30,22 @@ Use the text editor of your choice but we like Sublime Text for its feature set 
 ### Molecule Man
 We have put together a static site builder that is our boilerplate for projects. It allows us to take advantage of the modular nature of Sass and build our HTML partials accordingly.
 
-* Middleman
+* **Middleman**
 Rails static site builder. Since we are using Sass and Compass we liek that it is in the same family. 
 
-* Sass w/Compass
+* **Sass w/Compass**
 We find Sass to be the best supported preprocessor with an engaged community helping to define new features. 
 
-* Atomic Design. SMACCS, BEM, OOCSS
+* **Atomic Design. SMACCS, BEM, OOCSS**
+Whichever flavor you prefer, we like our styles DRY. The default Sass structure that comes with Molecule Man is suggested as a starting point. 
 
-* Style Tile - Update (Tiling)
-* Type
-* Color
-* Grid & Rhythm
-* Globals
+### Design with Browser
+
+* **Style Tile**
+  * Type
+  * Color
+  * Grid & Rhythm
+  * Globals
 
 Parts Inventory
 -------
