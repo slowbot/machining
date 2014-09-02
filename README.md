@@ -31,7 +31,7 @@ Use the text editor of your choice but we like Sublime Text for its feature set 
 We have put together a static site builder that is our boilerplate for projects. It allows us to take advantage of the modular nature of Sass and build our HTML partials accordingly.
 
 * **Middleman**
-Rails static site builder. Since we are using Sass and Compass we liek that it is in the same family. 
+Rails static site builder. Since we are using Sass and Compass we like that it is in the same family. 
 
 * **Sass w/Compass**
 We find Sass to be the best supported preprocessor with an engaged community helping to define new features. 
