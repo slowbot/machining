@@ -59,14 +59,14 @@ https://balsamiq.com
 http://www.invisionapp.com
 
 ### Blocking
-Define content building blocks. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
+Object modeling allows us to define the building blocks of our content. Again keeping in mind Atomic and OOCSS principles we want to design our products based on their natural material, the content.
   * News site - single article
-  * Reality site - single property
-   
+  * Realty site - single property
+ 
 Define larger groupings of related content
-* Archive, Search
-* Map global elements
-* Header, Footer
+  * Archive, Search
+  * Map global elements
+  * Header, Footer
 
 ### Scribing (Scribing)
 Namespacing our components is important. Domain language will be shared across Product, Design and Development
