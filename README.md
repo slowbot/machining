@@ -50,7 +50,7 @@ Parts Inventory
 -------
 
 ### Content Audit 
-A simple spreadsheet with allow the least technical member of the team to contricbute to the content definition portion of the project.
+A simple spreadsheet which allows the least technical member of the team to contricbute to the content definition portion of the project.
 
 ### Sitemap & Wireframes
 We use Slickplan for sitempas and a combination of Balsamiq and InVision for Wireframing. 
