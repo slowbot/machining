@@ -1,7 +1,7 @@
 Machining
 =========
 
-Machining is a method of front end development preferred by the team at Mister Machine. It involves rolling togeher design and development practices.  
+Machining is a method of front end development preferred by the team at Mister Machine. It involves rolling together design and development practices.  
 
 Getting Started
 -------
