@@ -137,7 +137,7 @@ SCSS/CSS Guidelines
 
 ### Order
 * Use Alphabetcal order
-* Exlends
+* Extends
 * Includes
 * Property: Value
 * Psuedo
